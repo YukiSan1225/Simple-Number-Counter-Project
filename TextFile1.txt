@@ -1,0 +1,5 @@
+What needs to be added or done.
+
+- Implement the logic of the program.
+- Life of the program, when to stop and when to not stop
+- 

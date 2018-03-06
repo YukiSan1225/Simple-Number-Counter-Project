@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  NumberCounterDraft.cpp
+  Generating Code...
+g:\google drive\computer science work\cs 342\project1\project1\myform.h(286): warning C4700: uninitialized local variable 'randomNumber' used
+  .NETFramework,Version=v4.5.1.AssemblyAttributes.cpp
+  Project1.vcxproj -> G:\Google Drive\Computer Science Work\CS 342\Project1\x64\Debug\Project1.exe
